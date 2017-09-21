@@ -13,7 +13,7 @@
   - [Chapter 7. Classes](ch07/README.md)
 - Part II: The C++ Library
   - [Chapter 8. The IO Library](ch08/README.md)
-  - [Chapter 9. Sequential Containers](https://github.com/lao1ian/Notes-Cppprimer5th-/blob/master/ch9.md)
+  - [Chapter 9. Sequential Containers](https://github.com/lao1ian/Notes-Cppprimer5th-/tree/master/ch09)
   - [Chapter 10. Generic Algorithms](https://github.com/lao1ian/Notes-Cppprimer5th-/blob/master/ch10.md)
   - [Chapter 11. Associative Containers](ch11/README.md)
   - [Chapter 12. Dynamic Memory](ch12/README.md)
